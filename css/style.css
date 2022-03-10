@@ -1,0 +1,18 @@
+/* Your style sheet */
+
+.buttonColor {
+    /* color: #0082ec !important; */
+    /* background-color: #8c65b9 !important; */
+    /* improved color contrast for button */
+    background-color: #7B00E0 !important;
+    color: white;
+}
+
+.accentColor {
+    color: #7B00E0;
+}
+
+#showPassword:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
